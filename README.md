@@ -47,6 +47,7 @@
 
 ## 🔬 Research
 
+| | |
 |---|---|
 | **Lab** | 笹野研究室（Sasano Lab）, Nagoya University |
 | **Field** | 自然言語処理（Natural Language Processing） |
