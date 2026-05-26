@@ -47,11 +47,10 @@
 
 ## 🔬 Research
 
-| | |
 |---|---|
 | **Lab** | 笹野研究室（Sasano Lab）, Nagoya University |
 | **Field** | 自然言語処理（Natural Language Processing） |
-| **Interest** | 言語モデル・テキスト処理・情報抽出 |
+| **Interest** | LLM・認知言語学・解釈可能性 |
 
 ---
 
